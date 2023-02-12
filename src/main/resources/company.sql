@@ -1,0 +1,1 @@
+INSERT INTO kpms.company VALUES (1,'KNODTEC',sysdate());
